@@ -2,7 +2,7 @@
 
 ## Script broad sequence:-
 
-### 1. Reading the features file and extracting the required column names with the mean() & std() in the form of vector to directly fetch the requisite column names from the X_test & X_train data set in the following script
+#### 1. Reading the features file and extracting the required column names with the mean() & std() in the form of vector to directly fetch the requisite column names from the X_test & X_train data set in the following script
 
 #### 2. Create data frames by reading activity, subject, y & X files for both test & train data 
 
