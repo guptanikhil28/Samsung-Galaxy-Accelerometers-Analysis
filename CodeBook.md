@@ -1,4 +1,4 @@
-# This code book will describe the each tranformation done in the mentioned run_analysis.R script with the main data set and final varaibles in the transformed data set.
+This code book will describe the each tranformation done in the mentioned run_analysis.R script with the main data set and final varaibles in the transformed data set.
 
 ## Script broad sequence:-
 
